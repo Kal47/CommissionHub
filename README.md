@@ -24,4 +24,4 @@ Login system
 Artist page
 Open for comission posts
 In game chat and file transfer
-search for artists with tags and open commisions
+earch for artists with tags and open commisions
